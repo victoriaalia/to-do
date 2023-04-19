@@ -12,7 +12,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     height: 100vh;
-   background-color: #87759e9f;
+    background-color: #87759e9f;
 }
 h1 {
     color: white;
@@ -36,16 +36,15 @@ h1 {
 
     margin: 25px auto;
     color: rgba(255, 255, 255, 0.863);
-    padding: 25px;
+    padding: 1em;
     width: 100%;
-    max-width: 350px;
+    max-width: 300px;
     background: radial-gradient(#f588d8, #c0a3e5);
     
 }
 
 .date {
     display: flex;
-   
     align-items: center;
     justify-content: space-between;
 }
