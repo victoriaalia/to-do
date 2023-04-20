@@ -11,7 +11,7 @@
 
 ### 🙆 Links
 
-- URL Solución: [To Do Minute GitHub](https://github.com/victoriaalia/to-do)
+- URL Solución: [To Do GitHub](https://github.com/victoriaalia/to-do)
 - URL sitio desplegado: [To Do](https://to-do-eosin-rho.vercel.app/)
 
 ## My process
